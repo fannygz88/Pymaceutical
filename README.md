@@ -1,2 +1,2 @@
-# Pymaceutical
+# Pymaceuticals
 Graphing  with Python
